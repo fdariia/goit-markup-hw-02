@@ -178,6 +178,11 @@ button {
     line-height: 1.71;
 }
 
+.contacts-address .link:hover,
+.contacts-address .link:focus {
+    color: var(--accent-color);
+}
+
 /* PORTFOLIO */
 
 /* Filter */
